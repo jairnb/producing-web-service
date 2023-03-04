@@ -1,0 +1,5 @@
+<Employee>  <!--xmlns="http://mycompany.com/hr/schemas"-->
+    <Number>42</Number>
+    <FirstName>Arjen</FirstName>
+    <LastName>Poutsma</LastName>
+</Employee>
